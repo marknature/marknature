@@ -5,7 +5,7 @@
 🚀 Empowering Teams, Inspiring Change | Merging Science with Imagination
 
 
-- **Africa University**
+- **Africa University** “Investing in Africa’s Future”
   - Bachelor of Science Honours in Computer Science
   - August 2023 - June 2027
   - 📍 Mutare, Manicaland Province, Zimbabwe
