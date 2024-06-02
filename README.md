@@ -63,6 +63,13 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknature&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
+---
+
+<!---SNAKE---> 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <!---FOOTER---> 
 <p align="center">
