@@ -20,7 +20,13 @@
   - "We speak Data" 
   - 📍 Virtual, May-July 2024
 
+
 <br>
+<div align="center">
+<img alt="Coding" width="300" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
+</div>
+<br>
+
 
 ## Languages and Tools 
 <div align="center">
