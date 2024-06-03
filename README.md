@@ -1,9 +1,12 @@
-## Mark 'Nature' Chindudzi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+## Welcome | Bienvenu | Mauya, Je suis Nature <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 
-🌟 Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data
-🔬 Data Science, Python Virtuoso | Crafting Insights from Data
-🚀 Empowering Teams, Inspiring Change | Merging Science with Imagination
+🌟 Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data <br>
+🔬 Data Science, Python Virtuoso | Crafting Insights from Data <br>
+🚀 Empowering Teams, Inspiring Change | Merging Science with Imagination <br>
+🌱 Mark 'Nature' Chindudzi
+
+
 - **Africa University** “Investing in Africa’s Future”
   - Bachelor of Science Honours in Computer Science
   - August 2023 - June 2027
