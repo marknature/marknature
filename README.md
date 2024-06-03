@@ -22,13 +22,19 @@
   - Machine Learning Internship & Artificial Intelligence Internship
   - "We speak Data" 
   - 📍 Virtual, May-July 2024
+ 
 
-
-<br>
 <div align="center">
-<img alt="Coding" width="300" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
-</div>
+
+<!--- Image -->
 <br>
+<img alt="Coding" width="300" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
+<br>
+
+<!--- QUOTE -->
+### 🎲 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark)
+</div>
 
 
 ## Languages and Tools 
@@ -74,16 +80,24 @@
 
 ---
 
+
 <!---SNAKE---> 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 
-<!---FOOTER---> 
+<!--- FOOTER ---> 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+<!-- visitcount -->
+[![](https://visitcount.itsvg.in/api?id=marknature&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly Assambled with Nature -->
 
 <!---
 marknature/marknature is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
