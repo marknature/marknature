@@ -4,7 +4,7 @@
 🌟 Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data <br>
 🔬 Data Science, Python Virtuoso | Crafting Insights from Data <br>
 🚀 Empowering Teams, Inspiring Change | Merging Science with Imagination <br>
-🌱 Mark 'Nature' Chindudzi
+🌱 Mark 'Nature' Chindudzi | “munhu munhu muvanhu” (UBUNTU)
 
 
 - **Africa University** “Investing in Africa’s Future”
