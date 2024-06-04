@@ -22,7 +22,19 @@
   - Machine Learning Internship & Artificial Intelligence Internship
   - "We speak Data" 
   - 📍 Virtual, May-July 2024
- 
+
+
+<!--- Hobbies Label --->
+<details>
+  <summary>Hobbies</summary>
+🍽️ 🛌 👨🏻‍💻 💪 🔁 
+</br> 
+  🌏 Traveling
+  📚 Learning
+  💪 WorkingOut
+  🎧 Listening to Music
+</details>
+
 
 <div align="center">
 
