@@ -1,4 +1,10 @@
-## Welcome | Bienvenu | Mauya, Je suis Nature <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+
+<p align="">
+<a href="https://github.com/marknature">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Welcome+%7C+Bienvenu+%7C+Mauya;Je+suis+%7C+Ek+is+%7C+Ndini+%7C+I+am+Nature;Merging+Science+with+Imagination" alt="Typing SVG" />
+</a>
+</p>
 
 
 🌟 Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data <br>
