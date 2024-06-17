@@ -98,6 +98,11 @@
 
 ---
 
+<!-- visitcount -->
+<div id="header" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount"/>
+</div>
+
 
 <!---SNAKE---> 
 <p align="center">
@@ -109,10 +114,6 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-<!-- visitcount -->
-[![](https://visitcount.itsvg.in/api?id=marknature&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly Assambled with Nature -->
