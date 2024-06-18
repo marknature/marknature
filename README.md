@@ -1,3 +1,10 @@
+<!--- Header --->
+<p align="center">
+<a href="https://github.com/marknature">
+    <img src="" alt="Header" />
+</a>
+</p>
+
 # Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 <p align="">
@@ -28,17 +35,17 @@
   - Machine Learning Internship & Artificial Intelligence Internship
   - "We speak Data" 
   - 📍 Virtual, May-July 2024
-
+<br>
 
 <!-- visitcount -->
 <div id="header" align="">
-  <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount"/>
+  <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount">
 </div>
-
+<br>
 
 <!--- Hobbies Label --->
 <details>
-  <summary>Hobbies</summary>
+  <summary><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 💪 🔁 
 </br> 
   🌏 Traveling
