@@ -25,7 +25,11 @@
 
 
 - Open to project collaborations
-- You can reach me through: <a href="https://linktr.ee/marknature" title="Linktree"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.markchindudzi716@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/marknature-c/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+- You can reach me through: <a href="https://linktr.ee/marknature" title="Linktree"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.markchindudzi716@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+
+- <a href="https://www.linkedin.com/in/marknature-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit patil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marknature_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_patil.20" height="30" width="40" /></a>
+
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 
