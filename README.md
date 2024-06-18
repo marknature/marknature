@@ -1,11 +1,9 @@
-<!--- Header --->
+<!--- Header 
 <p align="center">
 <a href="https://github.com/marknature">
-    <img src="" alt="Header" />
+    <img src="https://github.com/marknature/marknature/blob/main/assets/Bottom_up.svg" alt="Header" />
 </a>
-</p>
-
-# Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+</p>--->
 
 <p align="">
 <a href="https://github.com/marknature">
@@ -14,7 +12,7 @@
 </p>
 
 
-🌟 Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data <br>
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="20"> Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data <br>
 🔬 Data Science, Python Virtuoso | Crafting Insights from Data <br>
 🚀 Empowering Teams, Inspiring Change | Merging Science with Imagination <br>
 🌱 Mark 'Nature' Chindudzi | “munhu munhu muvanhu” (UBUNTU)
@@ -37,11 +35,6 @@
   - 📍 Virtual, May-July 2024
 <br>
 
-<!-- visitcount -->
-<div id="header" align="">
-  <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount">
-</div>
-<br>
 
 <!--- Hobbies Label --->
 <details>
@@ -53,6 +46,13 @@
   💪 WorkingOut
   🎧 Listening to Music
 </details>
+
+
+<!-- visitcount -->
+<div id="header" align="">
+  <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount">
+</div>
+<br>
 
 
 <div align="center">
@@ -93,8 +93,7 @@
 </div>
 
 
----
-
+## Portfolio Analysis  
   
 <div align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=marknature&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -115,10 +114,14 @@
 </p>
 
 
+
 <!--- FOOTER ---> 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<!--- Python Logo --->
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
 <!-- Proudly Assambled with Nature -->
