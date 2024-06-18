@@ -50,7 +50,8 @@
 
 <!-- visitcount -->
 <div id="header" align="">
-  <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount">
+    <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="30" height="30" />
 </div>
 <br>
 
