@@ -29,7 +29,7 @@
 
 - <a href="https://www.linkedin.com/in/marknature-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit patil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/marknature_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_patil.20" height="30" width="40" /></a>
-<a href="https://linktr.ee/marknature" target="blank"><img align="center" src="https://github.com/marknature/marknature/blob/main/assets/icons8-linktree.svg" alt="abhi_patil.20" height="30" width="40" /></a>
+<a href="https://linktr.ee/marknature" target="blank"><img align="center" src="https://github.com/marknature/marknature/blob/main/assets/icons8-linktree.svg" alt="abhi_patil.20" height="35" width="45" /></a>
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
