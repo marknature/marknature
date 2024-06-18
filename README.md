@@ -59,8 +59,9 @@
 
 <!--- Image -->
 <br>
-<img alt="Coding" width="300" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
+<img alt="Coding" width="500" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
 <br>
+
 
 <!--- QUOTE -->
 ### 🎲 Random Dev Quote
@@ -93,6 +94,12 @@
 </div>
 
 
+<!---SNAKE---> 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 ## Portfolio Analysis  
   
 <div align="center">
@@ -108,17 +115,18 @@
 ---
 
 
-<!---SNAKE---> 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<!--- Image --->
+<div align="center">
+  <img src="assets/header_.png">
+</div>
 
 
 
 <!--- FOOTER ---> 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img width="1200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 <!--- Python Logo --->
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
