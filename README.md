@@ -1,7 +1,7 @@
 <!--- Header 
 <p align="center">
 <a href="https://github.com/marknature">
-    <img src="https://github.com/marknature/marknature/blob/main/assets/Bottom_up.svg" alt="Header" />
+    <img src="https://github.com/marknature/marknature/blob/main/assets/Bottom_up.svg" alt="Header">
 </a>
 </p>--->
 
