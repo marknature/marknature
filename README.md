@@ -34,10 +34,11 @@
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 
-- **InternCareer**
-  - Machine Learning Internship & Artificial Intelligence Internship
-  - "We speak Data" 
-  - 📍 Virtual, May-July 2024
+- **Internships**
+  - Machine Learning Internship & Artificial Intelligence Internship at InternCareer <br>
+    🍭 "We speak Data" ~ Virtual, May-July 2024
+  - Data Analyst Internship at MeriSKILL <br>
+    🍭 "Gain Work Experience. Anytime, Anywhere." ~ Virtual, July 2024
 <br>
 
 
