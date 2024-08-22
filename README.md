@@ -45,6 +45,8 @@
     🍭 "We speak Data" ~ Virtual, May-July 2024
   - Data Analyst Internship at MeriSKILL <br>
     🍭 "Gain Work Experience. Anytime, Anywhere." ~ Virtual, July 2024
+  - Data Science Intern at Oasis Infobyte<br>
+    🍭 "Be a team player." ~ Virtual, Aug 2024
 <br>
 
 
