@@ -58,6 +58,8 @@
   🎹 Learning to play Piano
   💪 WorkingOut
   👨‍🍳 Junior Chef
+  🧁 Baking
+  📸 Photography
 </details>
 
 
