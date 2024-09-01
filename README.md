@@ -112,6 +112,11 @@
 
 </div>
 
+<!--- Image --->
+<div id="header" align="">
+    <img src="" alt="Machine Learning">
+</div>
+
 
 <!---SNAKE---> 
 <p align="center">
