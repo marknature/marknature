@@ -114,7 +114,7 @@
 
 <!--- Image --->
 <div id="header" align="center">
-    <img src="assets/imgs.jpeg" alt="Machine Learning">
+    <img src="assets/imgs.jpeg" alt="Machine Learning" width="525">
 </div>
 
 
