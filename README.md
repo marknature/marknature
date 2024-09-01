@@ -113,8 +113,8 @@
 </div>
 
 <!--- Image --->
-<div id="header" align="">
-    <img src="" alt="Machine Learning">
+<div id="header" align="center">
+    <img src="assets/imgs.jpeg" alt="Machine Learning">
 </div>
 
 
