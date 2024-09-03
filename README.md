@@ -60,6 +60,8 @@
   👨‍🍳 Junior Chef
   🧁 Baking
   📸 Photography
+</br>
+  🌱nature_
 </details>
 
 
