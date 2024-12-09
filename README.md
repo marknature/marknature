@@ -41,12 +41,14 @@
 
 
 - **Internships**
-  - Machine Learning Internship & Artificial Intelligence Internship at InternCareer <br>
+  - Machine Learning Internship & Artificial Intelligence Internship at InternCareer<br>
     🍭 "We speak Data" ~ Virtual, May-July 2024
   - Data Analyst Internship at MeriSKILL <br>
     🍭 "Gain Work Experience. Anytime, Anywhere." ~ Virtual, July 2024
   - Data Science Intern at Oasis Infobyte<br>
     🍭 "Be a team player." ~ Virtual, Aug 2024
+  - Generative AI Internship at Prodigy InfoTech<br>
+    🍭 "Real-world experience." ~ Virtual, Oct 2024
 <br>
 
 
