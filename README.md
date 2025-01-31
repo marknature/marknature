@@ -67,14 +67,6 @@
 </details>
 
 
-<!-- visitcount -->
-<div id="header" align="">
-    <img src="https://visitcount.itsvg.in/api?id=marknature&style=for-the-badge&icon=0&color=2" alt="visitcount">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="30" height="30" />
-</div>
-<br>
-
-
 <div align="center">
 
 <!--- Image -->
@@ -128,11 +120,6 @@
 
 
 ## Portfolio Analysis  
-  
-<div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=marknature&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</div>
-
 
 <div align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=marknature&show_icons=true&theme=vision-friendly-dark">
