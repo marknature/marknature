@@ -38,17 +38,6 @@
 
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
-
-
-- **Internships**
-  - Machine Learning Internship & Artificial Intelligence Internship at InternCareer<br>
-    🍭 "We speak Data" ~ Virtual, May-July 2024
-  - Data Analyst Internship at MeriSKILL <br>
-    🍭 "Gain Work Experience. Anytime, Anywhere." ~ Virtual, July 2024
-  - Data Science Intern at Oasis Infobyte<br>
-    🍭 "Be a team player." ~ Virtual, Aug 2024
-  - Generative AI Internship at Prodigy InfoTech<br>
-    🍭 "Real-world experience." ~ Virtual, Oct 2024
 <br>
 
 
