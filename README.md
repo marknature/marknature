@@ -1,13 +1,10 @@
 <!--- Header --->
 
-<!---
 <p align="center">
 <a href="https://github.com/marknature">
     <img src="https://github.com/marknature/marknature/blob/main/assets/Bottom_up.svg" alt="Header">
 </a>
 </p>
---->
-
 
 <p align="">
 <a href="https://github.com/marknature">
@@ -15,27 +12,22 @@
 </a>
 </p>
 
-
 <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="20"> Emerging Computer Science Luminary | Illuminating Possibilities with AI, AGI, and Big Data <br>
 🔬 Data Science, Python Virtuoso | Crafting Insights from Data <br>
 🚀 Empowering Teams, Inspiring Change | Merging Science with Imagination <br>
 🌱 Mark 'Nature' Chindudzi | “munhu munhu muvanhu” (UBUNTU)
-
 
 - **Africa University** “Investing in Africa’s Future”
   - Bachelor of Science Honours in Computer Science
   - August 2023 - June 2027
   - 📍 Mutare, Manicaland Province, Zimbabwe
 
-
 - Open to project collaborations
 - You can reach me through: <a href="https://linktr.ee/marknature" title="Linktree"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.markchindudzi716@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 
-
-<a href="https://www.linkedin.com/in/marknature-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit patil" height="30" width="40" /></a><br>
-<a href="https://www.instagram.com/marknature_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_patil.20" height="30" width="40" /></a><br>
+- <a href="https://www.linkedin.com/in/marknature-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit patil" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/marknature_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_patil.20" height="30" width="40" /></a> 
 <a href="https://linktr.ee/marknature" target="blank"><img align="center" src="https://github.com/marknature/marknature/blob/main/assets/icons8-linktree.svg" alt="abhi_patil.20" height="35" width="45" /></a>
-
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
@@ -53,22 +45,13 @@
   🌱nature_
 </details>
 
-
 <div align="center">
-
-<!--- Image -->
-<br>
-<img alt="Coding" width="550" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
-
-<br>
-
-
+    
 <!--- QUOTE -->
 ### 🎲 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark)
+
 </div>
-
-
 
 ## Languages and Tools 
 <div align="center">
@@ -78,13 +61,11 @@
 |----------|----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="55" height="55"/>|
 
-
 ### Best frameworks and main libraries for Python3:
 
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
 
 ### My tools for Data Manipulation:
 
@@ -96,7 +77,7 @@
 
 <!--- Image --->
 <div id="header" align="center">
-    <img src="assets/imgs.jpeg" alt="Machine Learning" width="525">
+    <img alt="Coding" width="550" src="https://media1.tenor.com/images/c0501a3e698bd33966ec1d98cc07048d/tenor.gif?itemid=8595411">
 </div>
 
 
@@ -105,14 +86,11 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
----
-
 
 <!--- Image --->
 <div align="center">
   <img src="assets/header_.png">
 </div>
-
 
 
 <!--- FOOTER ---> 
